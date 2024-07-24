@@ -7,6 +7,6 @@ $notas = [8.5, 7.2, 6.9];
 $promedio = array_sum($notas) / count($notas);
 
 // Mostramos el resultado
-echo "El promedio de las notas " . implode(", ", $notas) . " es: " . number_format($promedio, 2);
+echo "El promedio de las notas sssssssss" . implode(", ", $notas) . " es: " . number_format($promedio, 2);
 
 ?>
