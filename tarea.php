@@ -10,6 +10,6 @@ $promediooooooooooooooooooooooooo = ($nota1 + $nota2 + $nota3) / 3;
 
 // Mostramos el resultado
 echo "El promedio de las notas $nota1, $nota2 y $nota3 es: " . number_format($promedio, 2);
-
+echo "examen";
 ?>
 
