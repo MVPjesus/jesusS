@@ -7,7 +7,7 @@ function calcularPromedio($nota1, $nota2, $nota3) {
 }
 
 // Definimos las notas
-$nota1 = 8.5;
+$nota11111111111111111111 = 8.5;
 $nota2 = 7.2;
 $nota3 = 6.9;
 
